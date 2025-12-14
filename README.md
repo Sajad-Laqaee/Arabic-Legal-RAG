@@ -195,25 +195,6 @@ Correctness is prioritized over fluency.
 
 ---
 
-## ⚠️ Known Limitations
-
-* GPU recommended for indexing speed
-* Cross‑Encoder is computationally expensive
-* Assumes relatively clean legal text
-* Not designed for real‑time, high‑throughput systems
-
-These are conscious trade‑offs.
-
----
-
-## 🎯 Intended Use Cases
-
-* Arabic legal assistants
-* Law‑focused Q&A systems
-* Arabic RAG research
-* High‑precision legal retrieval
-
-This is **not** a general chatbot.
 
 
 
