@@ -1,6 +1,10 @@
 # 🏛️ Arabic Legal RAG Pipeline 
 
 > A high‑precision Retrieval‑Augmented Generation (RAG) system for Arabic legal texts, designed for correctness over confidence.
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![FAISS](https://img.shields.io/badge/FAISS-Latest-purple)](https://github.com/facebookresearch/faiss)
+[![CrossEncoder](https://img.shields.io/badge/CrossEncoder-Latest-orange)](https://www.sbert.net/examples/applications/re-ranking/README.html)
+[![Ollama](https://img.shields.io/badge/Ollama-LLM-lightblue)](https://ollama.ai/)
 
 ---
 
